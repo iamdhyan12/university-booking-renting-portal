@@ -24,7 +24,7 @@ A full-stack web application for managing university room bookings, resource ren
 
 The database follows **Third Normal Form (3NF)**.
 
-![Database Schema](images/images/Database_schema.jpeg)
+![Database Schema](images/Database_schema.jpeg)
 
 ### ERD Diagram
 
